@@ -1,0 +1,7 @@
+Sou Pedro Henrique Velloso, ingressei no curso de ADS em 2023.1 aos 17 anos, atualmente faço parte do grupo de pesquisa do GSORT com o professor Renato Novais.
+Lá adquiri uma breve experiência em Python com Django e Flask, porém acabamos focando e trabalhando mesmo em Java com Springboot e Angular.
+Já cursei as disciplinas obrigatórias, como Lógica, Lab. de Programação, SO, POO, Estrutura de dados, Banco de dados e entre outras.
+Atualmente estou cursando às obrigatórias - Padrões, PWEB, Redes 1 e banco de dados 2 -  do 4 semestre+INF032 que é minha primeira optativa.
+Tenho como expectativa para a disciplina aprimorar meu conhecimento na linguagem de Python e refrescar aquilo que já sei.
+Além disso é uma ótima oportunidade para manter o exercício de lógica.
+
