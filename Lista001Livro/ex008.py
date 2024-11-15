@@ -3,10 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # (a) Importar os dados do Excel e atribuir a cada coluna uma variável
-# Supondo que o arquivo Excel é 'dados_bovespa.xlsx' e está na mesma pasta
-df = pd.read_excel('dados_bovespa.xlsx', sheet_name='Plan1')
-vale = df['A']  # Coluna A representa a VALE3
-gerdau = df['B']  # Coluna B representa a GGBR4
+df = pd.read_excel('C:/Users/r1k/Documents/INF032/INF032/Lista001Livro/dados_bovespa.xlsx', sheet_name='Plan1')
+vale = df['VALE3']  
+gerdau = df['GGBR4']  
 
 # (b) Transformar as variáveis em vetores usando numpy
 vale = np.array(vale)
